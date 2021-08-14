@@ -1,0 +1,1 @@
+"..\Libraries\FWlib\src\bsp_usart.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\Libraries\CMSIS\startup;..\Libraries\CMSIS;..\Libraries\FWlib\src;..\Libraries\FWlib\inc;..\Libraries\FWlib;..\User) DEBUG OBJECTEXTEND PRINT(.\Listings\bsp_usart.lst) TABS (2) OBJECT(.\Objects\bsp_usart.obj)

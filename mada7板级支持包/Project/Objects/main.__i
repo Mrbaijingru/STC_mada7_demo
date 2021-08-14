@@ -1,0 +1,1 @@
+"..\User\main.c" OPTIMIZE (8,SPEED) BROWSE INCDIR(..\Libraries\CMSIS\startup;..\Libraries\CMSIS;..\Libraries\FWlib\src;..\Libraries\FWlib\inc;..\Libraries\FWlib;..\User) DEBUG OBJECTEXTEND PRINT(.\Listings\main.lst) TABS (2) OBJECT(.\Objects\main.obj)

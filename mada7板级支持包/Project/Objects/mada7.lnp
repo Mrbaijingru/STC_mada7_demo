@@ -1,0 +1,14 @@
+".\Objects\STARTUP.obj",
+".\Objects\bsp_beef.obj",
+".\Objects\bsp_digital.obj",
+".\Objects\bsp_TLC5620.obj",
+".\Objects\bsp_systicks.obj",
+".\Objects\bsp_usart.obj",
+".\Objects\bsp_adc.obj",
+".\Objects\bsp_EEPROM.obj",
+".\Objects\bsp_watchdog.obj",
+".\Objects\bsp_key.obj",
+".\Objects\main.obj",
+".\Objects\mada7_it.obj" 
+TO ".\Objects\mada7" 
+PRINT(".\Listings\mada7.m51") RAMSIZE(256) 
